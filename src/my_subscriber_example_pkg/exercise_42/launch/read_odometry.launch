@@ -1,0 +1,4 @@
+
+<launch>
+    <node pkg="exercise_42" type="odom_subscriber.py" name="odom_sub_node" output="screen" />
+</launch>
